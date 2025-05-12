@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **JeremyCharles8/JeremyCharles8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeremycharles8&show_icons=true&locale=en" alt="jeremycharles8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremycharles8&" alt="jeremycharles8" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremycharles8&" alt="jeremycharles8" /></p> -->
