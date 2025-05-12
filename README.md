@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, I'm Jérémy Charles</h1>
 <h3 align="center">A newbie web full-stack developer with a soft spot for JavaScript and a backend bias.</h3>
 <br>
+<br>
 
 
 <p align="left">- Looking for a work-study position or a permanent contract as a full-stack developer.</p>
 <p align="left">- 🌱 I'm currently learning Java and Spring.</p>
 <p align="left">- 🔭 Working on improving my dev skills step by step.</p>
-<p align="left">- I have a passion for learning new things. Every time, it gives me the opportunity to marvel at the vastness of my ignorance 😄</p>
+<p align="left">- I have a passion for learning new things. Each time, it gives me the opportunity to marvel at the vastness of my ignorance 😄</p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
